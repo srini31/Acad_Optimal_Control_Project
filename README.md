@@ -1,5 +1,4 @@
-# Academic_Optimal_Control_Project
-# Ball and Beam system
+# Optimal_Control_Project: Ball-and-Beam-system
 
 The project involves studying various solution approaches in a classical Ball and Beam 
 control system model. The system is inherently unstable without control but as long as it is 
